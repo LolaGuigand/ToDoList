@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+	background-color :  #27ae60
+}
+
+button {
+	border : solid black 1px;
+	border-radius : 20%;
+	background-color : #cb4335
+	
+}
+
+li > button {
+	background-color : none
+	
+}
